@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+}
+.nav-icon{
+    font-size: 15px;
+   margin-right: 13px;
+    color: honeydew;
+}
+.navbar a{
+    color: #A79554;
+    font-size: larger;
+}
+.navbar a:hover{
+    background-color: #979494;
+    color: #FAF9FC;
+    border-radius: 10px;
+}

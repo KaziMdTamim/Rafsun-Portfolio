@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+.partnership h6{
+        text-align: center;
+        color: darkorange;
+        font-family: 'Lobster', cursive;
+        font-size: 45px;
+}
+.partner-img{
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 50px;
+}
+.partner-img img{
+    border: 2px solid grey;
+    border-radius: 15px;
+    background-color: #1d1d1d;
+}
