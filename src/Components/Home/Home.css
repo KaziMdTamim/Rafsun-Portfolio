@@ -20,6 +20,7 @@
 .journey p{
     color: rgb(85, 84, 84);
     font-size: 20px;
+    text-align: start;
     padding-top: 30px;
     padding-bottom: 50px;
     margin-left: 10%;
